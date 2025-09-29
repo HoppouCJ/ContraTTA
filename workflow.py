@@ -9,7 +9,7 @@ from trainer import get_trainer
 import evaluation
 from utils import check_convention, config_path_prefix
 import argparse
-import plot
+# import plot
 from datetime import datetime
 
 import random
