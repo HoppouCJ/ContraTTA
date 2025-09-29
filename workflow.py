@@ -166,7 +166,7 @@ def run_one_multi_times(json_str, ori_uniq_name):
 
 # noise_type_list_temp = ['salt_pepper','stripes','deadlines']
 # noise_type_list_temp = ['thick_fog']
-noise_type_list_temp = ['thick_fog']
+noise_type_list_temp = ['jpeg']
 
 # noise_type_list_temp = ['jpeg', 'zmguass', 'additive', 'poisson', 'salt_pepper', 'stripes', 'deadlines', 'kernal', 'thick_fog'] 
 
