@@ -11,7 +11,7 @@ from utils import check_convention, config_path_prefix
 import argparse
 import plot
 from datetime import datetime
-from data_provider.info import noise_type_list 
+
 import random
 import torch
 
